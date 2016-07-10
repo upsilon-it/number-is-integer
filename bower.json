@@ -1,0 +1,22 @@
+{
+  "name": "number-is-integer",
+  "authors": [
+    "Aron Sisask <aron.sisask@gmail.com>"
+  ],
+  "description": "Number.isInteger polyfill",
+  "main": "is-integer.js",
+  "keywords": [
+    "number",
+    "is-integer",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
